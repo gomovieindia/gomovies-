@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoMovies</string>
+    <string name="watchlist_title">My Watchlist</string>
+    <string name="settings_title">Settings</string>
+</resources>

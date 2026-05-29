@@ -1,0 +1,6 @@
+{
+  "name": "GoMovies",
+  "description": "A premium, Netflix/IMDb-inspired movie tracking and trailer exploration app powered by TMDB. Includes watchlist, smart search, and streaming previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
